@@ -1,6 +1,8 @@
 # Visibility
-___Beginning at ArcGIS Pro 2.6 this functionality is installed with ArcGIS Pro. This repository will only be updated with critical fixes to ArcGIS Desktop.___
 
+## *This repository is no longer maintained.* 
+
+___Beginning at ArcGIS Pro 2.6 this functionality is installed with ArcGIS Pro.___
 
 These visibility component uses elevation data paired with observer and target information to produce Linear Line of Sight (LLOS) and Radial Line of Sight (RLOS) information.
 
